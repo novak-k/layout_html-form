@@ -1,1 +1,14 @@
 /* styles go here */
+.group {
+  /* padding-bottom: 0;
+  padding-top: 0; */
+  margin-bottom: 20px;
+}
+
+.inputStyle {
+  margin-bottom: 10px;
+}
+
+.lastInput {
+  margin-bottom: 0;
+}
